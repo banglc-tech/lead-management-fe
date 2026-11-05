@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-brand: #0061ff;
+  --color-brand-50: #eef4ff;
+  --color-brand-600: #0052d9;
+  --font-sans: "Manrope Variable", system-ui, sans-serif;
+}
+
+body {
+  background: #f6f8fb;
+  color: #0f172a;
+}
