@@ -4,7 +4,7 @@ Giao diện quản lý lead của iHouzz, dùng **Lark Base** làm backend.
 
 - Next.js 15 (App Router) · TypeScript · Tailwind CSS 4 · font Manrope, màu chủ đạo `#0061FF`
 - Dữ liệu: Base **Quản lý Lead** → bảng `Leads`
-  (https://ihouzz-com.sg.larksuite.com/base/EshSb4FAQahaF2shnZgl6Ry4gHh)
+  (https://ihouzz-com.sg.larksuite.com/base/B4rDbJkjEa7HsrsX4GIlv1YZgKe)
 - Gọi Lark Open API ở phía server (Route Handlers / Server Components); App Secret không bao giờ xuống trình duyệt.
 
 ## Chạy local
